@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RiveroViewTool::Renderer.copyright 'Mario Rivero', 'All rights reserved'
+```
 
 ## Development
 
